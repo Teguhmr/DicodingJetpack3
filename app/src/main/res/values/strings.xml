@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Clixnet</string>
+    <string name="movie">Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tvshows">TV Shows</string>
+
+    <string name="language">Language</string>
+    <string name="release">Release</string>
+    <string name="name_title">Judul Film</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="background_movie" translatable="false">Background_movie</string>
+    <string name="poster_movie" translatable="false">poster_movie</string>
+    <string name="line_white" translatable="false">line_white</string>
+    <string name="border">Border</string>
+    <string name="like">Suka</string>
+    <string name="vote">Vote</string>
+    <string name="logo">Logo</string>
+    <string name="add_to_fav">Ditambahkan ke favorit</string>
+    <string name="removed_from_fav">Dihapus dari favorit</string>
+    <string name="genres_label">Genres</string>
+
+    <string name="genres">Genre 1, Genre 2, Genre 3, …</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="fetch">Fetch</string>
+    <string name="empty">Empty</string>
+    <string name="clear">Clear</string>
+    <string name="menu_newest">Great Rating</string>
+    <string name="menu_oldest">Worst Rating</string>
+    <string name="menu_random">Random</string>
+    <string name="oke">OKE</string>
+    <string name="batal">BATAL</string>
+</resources>
